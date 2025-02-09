@@ -5,5 +5,6 @@ public class Berkay {
         System.out.println("Deneme 2 ");
 
 
+
     }
 }
